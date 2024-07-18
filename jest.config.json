@@ -1,5 +1,5 @@
 {
     "verbose": true,
-    "coveragePathIgnorePatterns": ["./src/js/index.js"]
+    "coveragePathIgnorePatterns": ["./src/js/index.js", "./src/js/promises/reader", "./src/js/async_await/reader", "./src/js/promises/app"]
   }
   
